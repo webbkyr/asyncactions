@@ -8,5 +8,9 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0"
+  }
 }
